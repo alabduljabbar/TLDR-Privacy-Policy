@@ -1,5 +1,5 @@
-#Install ktrain using the following command
-#pip install ktrain
+# install ktrain using the following command
+# pip install ktrain
 
 
 
